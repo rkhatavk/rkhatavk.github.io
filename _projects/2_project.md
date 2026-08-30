@@ -27,13 +27,15 @@ The proposed system potentially mitigated FoG, quantified by reductions in both 
   </div>
 </div>
 
+<div class="my-5"></div>
+
 ## Improved minimum toe clearance with the cueing scheme
 
 Recurrent falls pose a significant challenge for people with Parkinson's disease and are a leading cause of disability in this population. One contributing factor is reduced minimum toe clearance (mTC). Preventing these falls by improving mTC has therefore become an important goal in gait training for people with PD.
 
-We propose a wearable, cueing-based gait-training device designed to improve mTC. The device records foot-strike angle (FSA) and cues participants when the FSA exceeds a threshold. Eight participants with PD walked at a self-selected speed during the ON-medication state under two conditions: with and without the cue. Kinetic and kinematic gait parameters—including vertical ground-reaction force, center of pressure, toe clearance, and FSA—were recorded.
+We propose a wearable, cueing-based gait-training device designed to improve mTC. The device records foot-strike angle (FSA) and cues participants when the FSA exceeds a threshold. Eight participants with PD walked at a self-selected speed during the ON-medication state under two conditions: with and without the cue. Kinetic and kinematic gait parameters-including vertical ground-reaction force, center of pressure, toe clearance, and FSA-were recorded.
 
-A Mann–Whitney U test showed significant increases (p < 0.001) in toe clearance during 34–64% of the swing phase and in FSA. Across participants, toe clearance and FSA increased from 87.60 mm and −5.43°, respectively, without cueing to 94.29 mm and 2.93° with cueing, except in one participant.
+A Mann-Whitney U test showed significant increases (p < 0.001) in toe clearance during 34-64% of the swing phase and in FSA. Across participants, toe clearance and FSA increased from 87.60 mm and -5.43°, respectively, without cueing to 94.29 mm and 2.93° with cueing, except in one participant.
 
 These findings support the potential incorporation of an FSA-based cueing device for improving toe clearance among people with PD. The wearable setup also supports use outside laboratory and clinical settings.
 
@@ -42,3 +44,8 @@ These findings support the potential incorporation of an FSA-based cueing device
     {% include figure.liquid loading="eager" path="assets/img/cue_mtc.jpg" title="Minimum toe-clearance evaluation with vibrotactile cueing" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+
+## References
+
+1. R. Khatavkar, A. Tiwari, P. Bhat, A. K. Srivastava, S. S. Kumaran, and D. Joshi, "A Novel Kinematic Gait Parameter-Based Vibrotactile Cue for Freezing of Gait Mitigation Among Parkinson's Patients: A Pilot Study," *IEEE Transactions on Haptics*, vol. 17, no. 4, pp. 689-704, 2024. [https://doi.org/10.1109/TOH.2024.3378917](https://doi.org/10.1109/TOH.2024.3378917)
+2. R. Khatavkar, A. Tiwari, P. Bhat, and D. Joshi, "Investigating the Effects of a Kinematic Gait Parameter-Based Haptic Cue on Toe Clearance in Parkinson's Patients," *Annals of Biomedical Engineering*, vol. 52, no. 8, pp. 2039-2050, 2024. [https://doi.org/10.1007/s10439-024-03501-4](https://doi.org/10.1007/s10439-024-03501-4)
