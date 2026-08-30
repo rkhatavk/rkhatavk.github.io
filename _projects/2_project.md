@@ -47,5 +47,5 @@ These findings support the potential incorporation of an FSA-based cueing device
 
 ## References
 
-1. R. Khatavkar, A. Tiwari, P. Bhat, A. K. Srivastava, S. S. Kumaran, and D. Joshi, "A Novel Kinematic Gait Parameter-Based Vibrotactile Cue for Freezing of Gait Mitigation Among Parkinson's Patients: A Pilot Study," *IEEE Transactions on Haptics*, vol. 17, no. 4, pp. 689-704, 2024. [https://doi.org/10.1109/TOH.2024.3378917](https://doi.org/10.1109/TOH.2024.3378917)
-2. R. Khatavkar, A. Tiwari, P. Bhat, and D. Joshi, "Investigating the Effects of a Kinematic Gait Parameter-Based Haptic Cue on Toe Clearance in Parkinson's Patients," *Annals of Biomedical Engineering*, vol. 52, no. 8, pp. 2039-2050, 2024. [https://doi.org/10.1007/s10439-024-03501-4](https://doi.org/10.1007/s10439-024-03501-4)
+1. R. Khatavkar, A. Tiwari, P. Bhat, A. K. Srivastava, S. S. Kumaran, and D. Joshi, "A Novel Kinematic Gait Parameter-Based Vibrotactile Cue for Freezing of Gait Mitigation Among Parkinson's Patients: A Pilot Study," _IEEE Transactions on Haptics_, vol. 17, no. 4, pp. 689-704, 2024. [https://doi.org/10.1109/TOH.2024.3378917](https://doi.org/10.1109/TOH.2024.3378917)
+2. R. Khatavkar, A. Tiwari, P. Bhat, and D. Joshi, "Investigating the Effects of a Kinematic Gait Parameter-Based Haptic Cue on Toe Clearance in Parkinson's Patients," _Annals of Biomedical Engineering_, vol. 52, no. 8, pp. 2039-2050, 2024. [https://doi.org/10.1007/s10439-024-03501-4](https://doi.org/10.1007/s10439-024-03501-4)

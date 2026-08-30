@@ -41,5 +41,5 @@ These results demonstrate that complementary passive-active assistance can provi
 
 ## References
 
-1. R. Khatavkar, T. B. Nguyen, Y. Chen, H. Lee, and J. Sun, "A Hybrid Variable-Stiffness Soft Back Support Device," *IEEE Robotics and Automation Letters*, 2025. [https://doi.org/10.1109/LRA.2025.3541459](https://doi.org/10.1109/LRA.2025.3541459)
-2. R. Khatavkar, T. B. Nguyen, I. Kang, H. Lee, and J. Sun, "Soft Semi-active Back Support Device with Adaptive Force Profiles using Variable-elastic Actuation and Weight Feedback," *arXiv preprint arXiv:2603.03724*, 2026. [https://arxiv.org/abs/2603.03724](https://arxiv.org/abs/2603.03724)
+1. R. Khatavkar, T. B. Nguyen, Y. Chen, H. Lee, and J. Sun, "A Hybrid Variable-Stiffness Soft Back Support Device," _IEEE Robotics and Automation Letters_, 2025. [https://doi.org/10.1109/LRA.2025.3541459](https://doi.org/10.1109/LRA.2025.3541459)
+2. R. Khatavkar, T. B. Nguyen, I. Kang, H. Lee, and J. Sun, "Soft Semi-active Back Support Device with Adaptive Force Profiles using Variable-elastic Actuation and Weight Feedback," _arXiv preprint arXiv:2603.03724_, 2026. [https://arxiv.org/abs/2603.03724](https://arxiv.org/abs/2603.03724)
