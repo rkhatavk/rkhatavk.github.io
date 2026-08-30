@@ -1,81 +1,38 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Soft back support devices
+description: Variable-stiffness passive and semi-active wearable assistance.
+img: assets/img/BSD.jpg
 importance: 1
-category: work
-related_publications: true
+category: research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Passive variable-stiffness back support device
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Back support devices (BSDs) have the potential to mitigate overexertion in industrial tasks and provide assistance to people with weak back muscle strength during daily activities. While state-of-the-art active BSDs can offer high assistive forces, they are bulky and heavy, making them uncomfortable for daily use. In contrast, passive BSDs are compact but require manual adjustment to be versatile.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This work presents a hybrid soft BSD that provides task-oriented assistance by tuning both stiffness (0.58 N/mm, 0.92 N/mm, and 1.7 N/mm) and slack length (0–67 mm) in a compact design. The tunable stiffness enables selection of a task-specific force profile, while slack tuning ensures unhindered movement when assistance is not required. Compared with rigid devices, the device's compliance can potentially improve human comfort.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+We propose an analytical model that facilitates device design and estimates device performance. The device's tuning capabilities were evaluated in human squatting and stooping experiments, demonstrating that the desired force profiles were correctly applied.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
   <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/vsBSD.jpg" title="Passive variable-stiffness back support device" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-```
 
-{% endraw %}
+## Semi-active device using a variable-stiffness parallel elastic actuator
+
+Back support devices can reduce back-muscle effort during lifting, but existing designs face a tradeoff between lightweight passive assistance and tunable active assistance. We present a soft, lightweight, and untethered semi-active BSD that provides tunable assistance and positive net mechanical work using a variable-stiffness parallel elastic actuator (VPEA).
+
+The VPEA combines a variable-stiffness elastic band with an inverse pneumatic artificial muscle (IPAM), whose active and passive force contributions are co-designed to provide complementary assistance. A dynamic model coupling IPAM mechanics with the complete pneumatic flow path further enables a compact, portable actuation system.
+
+The resulting 1.97 kg device provides payload-adaptive assistance for 0, 7.5, and 15 kg payloads using onboard forearm force-myography and upper-back IMU measurements. During payload lifting and lowering, the device reduced back-extensor electromyography by 16.4 ± 4.9% and 12.2 ± 1.3%, respectively, across fifteen subjects. In a user-preference study, subjects preferred distinct assistance levels across the three payloads.
+
+These results demonstrate that complementary passive–active assistance can provide tunable biomechanical support while preserving the low mass, softness, and untethered operation desirable for wearable BSDs.
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/saBSD.jpg" title="Semi-active soft back support device" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
