@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-02-01 07:59:00-0400
+date: 2026-04-16 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Paper on variable-stiffness soft back support device accepted in IEEE RA-L
+Paper accepted in IEEE BioRob 2026.
