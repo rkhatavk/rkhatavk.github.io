@@ -1,8 +1,9 @@
 cv:
   name: Rohan Khatavkar
-  headline: PhD Student in Mechanical Engineering
+  label: PhD Student in Mechanical Engineering
   email: rkhatavk@asu.edu
   location: Tempe, Arizona, USA
+  summary: PhD researcher developing wearable robotic systems, soft actuators, and human-centered technologies for biomechanical assistance and rehabilitation.
 
   social_networks:
     - network: LinkedIn
@@ -13,58 +14,52 @@ cv:
       - institution: Arizona State University
         location: Tempe, Arizona, USA
         area: Mechanical Engineering
-        degree: PhD
+        studyType: PhD
         start_date: 2024-01
         end_date: 2028-12
         highlights:
           - "Expected graduation: December 2028"
+          - "Advisors: Prof. Jiefeng Sun and Prof. Hyunglae Lee"
           - "CGPA: 4/4"
 
       - institution: College of Engineering Pune, Savitribai Phule Pune University
         location: Pune, India
         area: Mechanical Engineering
-        degree: Master of Technology
-        date: 2021-08
+        studyType: Master of Technology
+        end_date: 2021-08
         highlights:
+          - "Thesis: Synthesis and Fatigue Life Optimization of a Spring-less Compliant Robot Leg Design"
+          - "Advisor: Prof. Ajay Bhattu"
           - "CGPA: 9.51/10"
 
-    Academic Research Experience:
-      - company: Arizona State University, School for Engineering of Matter, Transport and Energy
+    Experience:
+      - company: Arizona State University
         position: Graduate Research Associate
         location: Tempe, Arizona, USA
         start_date: 2024-01
         end_date: present
-        summary: "Advisors: Dr. Jiefeng Sun and Dr. Hyunglae Lee"
+        summary: "Advisors: Prof. Jiefeng Sun and Prof. Hyunglae Lee"
         highlights:
-          - "Soft Tunable Passive Back Support Device: Developed a task-oriented soft passive device with tunable stiffness (0.58, 0.92, and 1.7 N/mm) and slack length (0-67 mm), combining assistance tuning with a compact passive design."
-          - Demonstrated the device's efficacy in helping users regain balance after slip perturbations during standing and walking through a biomechanics study.
-          - "Soft Semi-Active Back Support Device: Combined a variable-stiffness passive element with a pneumatic artificial muscle in parallel, enabling external energy addition with a compact and lightweight device."
-          - Demonstrated reductions in human back-muscle effort through an electromyography study.
+          - Developed passive variable-stiffness and semi-active soft back-support devices for task-adaptive biomechanical assistance and postural-stability improvement.
 
-      - company: Indian Institute of Technology Delhi, Centre for Biomedical Engineering
+      - company: Indian Institute of Technology Delhi
         position: Research Fellow
         location: New Delhi, India
         start_date: 2021-10
         end_date: 2023-10
-        summary: "Advisor: Dr. Deepak Joshi"
+        summary: "Advisor: Prof. Deepak Joshi"
         highlights:
-          - "Haptic Cueing System for Parkinson's Disease: Formulated and pilot-tested a kinematic gait parameter-driven vibrotactile cueing system for freezing-of-gait mitigation and toe-clearance enhancement."
-          - The system reduced freezing severity in 8 of 10 participants with Parkinson's disease and increased toe clearance in 7 of 8 participants.
-          - "Force Myography-based User Intent Detection: Developed FMG bands and decision-tree algorithms that detected step-length change intent with an F1 score of 86.64%."
-          - "Cable-driven Knee Exoskeleton: Built a system for classifying people with osteoarthritis by Kellgren-Lawrence grade."
-          - "Powered Ankle-Foot Prosthesis: Developed a prosthesis for assisting amputees with weight-shifting exercises during early post-amputation rehabilitation."
+          - Developed wearable vibrotactile cueing and intent-detection systems for gait rehabilitation and Parkinson's disease.
 
       - company: College of Engineering Pune
         position: Master's Thesis Researcher
         location: Pune, India
         start_date: 2020-08
         end_date: 2021-08
-        summary: "Advisor: Dr. Ajay Bhattu"
+        summary: "Advisor: Prof. Ajay Bhattu"
         highlights:
-          - Synthesized and optimized the fatigue life of a spring-less compliant quadruped robot leg using inherent elastodynamics and Abaqus CAE.
-          - Reduced the leg assembly from five parts to two while maintaining kinematic and dynamic equivalence with a spring-loaded rigid linkage.
+          - Synthesized and optimized a spring-less compliant quadruped robot leg using inherent elastodynamics and finite-element analysis.
 
-    Industrial Research and Development Experience:
       - company: Garrett Motion
         position: R&D Intern
         start_date: 2021-08
@@ -77,100 +72,63 @@ cv:
         start_date: 2017-08
         end_date: 2018-05
         highlights:
-          - Incorporated an electronic locking feature into an existing open differential while minimizing changes to the original assembly and built a functional prototype.
-          - Packaged the electromagnetic actuator and locking mechanism on opposite sides of the ring gear to fit within the existing compact carrier and axle housing.
-          - Used HyperMesh, Abaqus, and selective laser sintering for analysis and prototyping.
-          - Developed an automatic differential locking and unlocking algorithm in MATLAB and Simulink.
+          - Developed and prototyped a compact electromagnetic locking mechanism for an automotive differential and implemented its control algorithm in MATLAB/Simulink.
 
-      - company: College Racing Team
-        position: R&D Staff
-        start_date: 2015-08
-        end_date: 2016-10
-        highlights:
-          - "SAE EffiCycle 2016: Designed a chain-and-cassette transmission, reduction gearbox, and differential gearbox; calculated drivetrain performance; and supported CAD, assembly, and GD&T drafting."
-          - "SAE Supra 2016: Designed the engine intake manifold and simulated airflow through a venturi and orifice using Abaqus CAE."
-
-    Awards and Fellowships:
-      - name: Jumpstart Research Grant
-        date: 2025
-        summary: "$1,500 research grant from Arizona State University, awarded in Spring and Fall 2025."
-      - name: Senior Research Fellowship
-        start_date: 2021-10
-        end_date: 2023-09
-        summary: "$10,895.92 fellowship from the Indian Institute of Technology Delhi."
-      - name: AICTE Post Graduate Scholarship
-        start_date: 2019-08
-        end_date: 2021-07
-        summary: "$3,386.20 scholarship from the All India Council for Technical Education."
-      - name: Bravo Award
-        date: 2021-09
-        summary: Garrett Motion.
-      - name: Graduate Aptitude Test in Engineering (GATE)
-        date: 2019-03
-        summary: Secured the 98.22 percentile in the national master's entrance examination.
-
-    Publications:
-      - title: A Hybrid Variable-Stiffness Soft Back Support Device
-        authors: [Rohan Khatavkar, The Bach Nguyen, Yuanhao Chen, Hyunglae Lee, Jiefeng Sun]
-        journal: IEEE Robotics and Automation Letters
-        date: 2025
-        doi: 10.1109/LRA.2025.3541459
-      - title: "A Well-Tuned HARP: Versatile Artificial Muscle by Decoupling Anisotropy"
-        authors: [Eric Weissman, Rohan Khatavkar, Jiefeng Sun]
-        journal: Proceedings of the National Academy of Sciences of the United States of America (under review in the uploaded CV)
-        date: 2025
-      - title: A Semi-Active Soft Back Support Device
-        authors: [Rohan Khatavkar, The Bach Nguyen, Inseung Kang, Hyunglae Lee, Jiefeng Sun]
-        journal: In preparation
+    Awards:
+      - title: Jumpstart Research Grant
         date: 2026
-      - title: "A Novel Kinematic Gait Parameter-Based Vibrotactile Cue for Freezing of Gait Mitigation Among Parkinson's Patients: A Pilot Study"
-        authors: [Rohan Khatavkar, Ashutosh Tiwari, Priyanka Bhat, Achal Srivastava, S. Senthil Kumaran, Deepak Joshi]
-        journal: IEEE Transactions on Haptics
-        date: 2024
-        doi: 10.1109/TOH.2024.3378917
-      - title: Effect of a Kinematic Gait Parameter-Based Haptic Cue on Toe Clearance in Parkinson's Patients
-        authors: [Rohan Khatavkar, Ashutosh Tiwari, Priyanka Bhat, Deepak Joshi]
-        journal: Annals of Biomedical Engineering
-        date: 2024
-        doi: 10.1007/s10439-024-03501-4
-      - title: Synthesis and Fatigue Life Optimization of a Spring-Less Compliant Robot Leg Design
-        authors: [Rohan Vijay Khatavkar, Ajay Pandit Bhattu]
-        journal: National Conference on Multidisciplinary Analysis and Optimization
-        date: 2023
-        doi: 10.1007/978-981-19-3938-9_48
-      - title: Gait Step Length Classification Using Force Myography
-        authors: [Rohan Khatavkar, Ashutosh Tiwari, Rishabh Bajpai, Deepak Joshi]
-        journal: 2022 International Conference for Advancement in Technology (ICONAT)
-        date: 2022
-        doi: 10.1109/ICONAT53423.2022.9726014
-      - title: Exploring the Center of Pressure Shift Feedback at Heel Strike to Modulate the Step Length
-        authors: [Ashutosh Tiwari, Rishabh Bajpai, Rohan Khatavkar, Manish Gupta, Bhavuk Garg, Deepak Joshi]
-        journal: 2022 International Conference for Advancement in Technology (ICONAT)
-        date: 2022
-        doi: 10.1109/ICONAT53423.2022.9726031
-      - title: "AbnormNet: A Neural Network Based Suggestive Tool for Identifying Gait Abnormalities in Cerebral Palsy Children"
-        authors: [Rishabh Bajpai, Ashutosh Tiwari, Deepak Joshi, Rohan Khatavkar]
-        journal: 2022 International Conference for Advancement in Technology (ICONAT)
-        date: 2022
-        doi: 10.1109/ICONAT53423.2022.9725832
+        awarder: Arizona State University
+        summary: "$2,250 total, awarded in Spring and Fall 2025 and Spring 2026."
+
+      - title: GPSA Travel Grant
+        date: 2026
+        awarder: Graduate and Professional Student Association, Arizona State University
+        summary: "$950, Summer 2026."
+
+      - title: Junior Research Fellowship
+        date: "2021-2023"
+        awarder: Indian Institute of Technology Delhi
+        summary: "$10,895.92 fellowship."
+
+      - title: AICTE Post Graduate Scholarship
+        date: "2019-2021"
+        awarder: All India Council for Technical Education
+        summary: "$3,386.20 scholarship."
+
+      - title: Bravo Award
+        date: 2021
+        awarder: Garrett Motion
+        summary: Recognition for contributions during the R&D internship.
+
+      - title: Graduate Aptitude Test in Engineering (GATE)
+        date: 2019
+        awarder: Government of India
+        summary: Achieved the 98.22 percentile nationally.
 
     Skills:
-      - label: Tools
-        details: "MATLAB, PyTorch, OpenSim, Arduino, Raspberry Pi, Vicon Nexus, SolidWorks, Fusion 360, Siemens NX, Abaqus CAE, Ansys, SMC PneuDraw, Overleaf, Adobe Illustrator, Adobe Premiere Pro"
-      - label: Design
-        details: "Mechatronics and robotic system design, pneumatic system design, CAD, additive manufacturing, solid mechanics, finite-element analysis"
-      - label: Experimental
-        details: "Instron force testing, Vicon optical motion capture, Delsys EMG acquisition and processing, Speedgoat real-time multi-sensor capture, movement biomechanics, signal processing, clinical protocol formulation, patient testing"
+      - name: Tools
+        level: Advanced
+        keywords: "MATLAB, PyTorch, OpenSim, Arduino, Raspberry Pi, Vicon Nexus, SolidWorks, Fusion 360, Siemens NX, Abaqus CAE, Ansys, SMC PneuDraw, Overleaf"
 
-    Extracurricular:
+      - name: Design
+        level: Advanced
+        keywords: "Mechatronic and robotic system design, pneumatic systems, CAD, additive manufacturing, solid mechanics, finite-element analysis"
+
+      - name: Experimental
+        level: Advanced
+        keywords: "Instron force testing, Vicon motion capture, Delsys EMG, Speedgoat real-time acquisition, movement biomechanics, signal processing, human-subject testing"
+
+    Volunteer:
+      - company: Academic and Professional Community
+        position: Journal and Conference Reviewer
+        summary: Reviews for Scientific Reports, IEEE Sensors Journal, IEEE Robotics and Automation Letters, Journal of NeuroEngineering and Rehabilitation, IEEE RoboSoft, IEEE/ASME AIM, and the American Control Conference.
+
+      - company: Arizona State University
+        position: Student Research Mentor
+        summary: Mentors undergraduate, honors-thesis, and high-school researchers in wearable robotics and biomechanics.
+        highlights:
+          - "Mentees: The Bach Nguyen, Rayan Mostofa, Cindy Furukawa, Akshay Karthik, and Alex Huang"
+
       - company: College of Engineering Pune
-        position: Graduate Assistant
+        position: Graduate Admissions Assistance
         summary: Assisted the Admissions Committee in evaluating applicants to the master's program in mechanical engineering.
-
-    Professional Service:
-      - label: Reviewer
-        details: "Scientific Reports, IEEE Sensors Journal, IEEE Robotics and Automation Letters, IEEE RoboSoft, IEEE/ASME AIM, American Control Conference"
-
-    Professional Memberships:
-      - label: Memberships
-        details: "Tau Beta Pi; IEEE (student member)"
