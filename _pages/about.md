@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a third-year PhD student in mechanical engineering at Arizona State University, advised by Dr. Jiefeng Sun and Dr. Hyunglae Lee. I work on developing soft wearable assistive devices. Before that, I was a DST junior research fellow at Indian Institute of Technology Delhi advised by Dr. Deepak Joshi. Even before that, I received a master's degree in mechanical engineering from College of Engineering Pune.
+Hi! I am a third-year PhD student in mechanical engineering at Arizona State University, advised by [Dr. Jiefeng Sun](https://sunrobotics.lab.asu.edu/) and [Dr. Hyunglae Lee](https://sites.google.com/view/asuneurorobotics/home). I work on developing soft wearable assistive devices. Before that, I was a DST junior research fellow at Indian Institute of Technology Delhi advised by [Dr. Deepak Joshi](https://web.iitd.ac.in/~joshid/). Even before that, I received a master's degree in mechanical engineering from College of Engineering Pune.
