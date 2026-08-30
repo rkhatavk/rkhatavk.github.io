@@ -74,6 +74,20 @@ cv:
         highlights:
           - Developed and prototyped a compact electromagnetic locking mechanism for an automotive differential and implemented its control algorithm in MATLAB/Simulink.
 
+      - company: Academic and Professional Community
+        position: Journal and Conference Reviewer
+        summary: Reviews for Scientific Reports, IEEE Sensors Journal, IEEE Robotics and Automation Letters, Journal of NeuroEngineering and Rehabilitation, IEEE RoboSoft, IEEE/ASME AIM, and the American Control Conference.
+
+      - company: Arizona State University
+        position: Student Research Mentor
+        summary: Mentors undergraduate, honors-thesis, and high-school researchers in wearable robotics and biomechanics.
+        highlights:
+          - "Mentees: The Bach Nguyen, Rayan Mostofa, Cindy Furukawa, Akshay Karthik, and Alex Huang"
+
+      - company: College of Engineering Pune
+        position: Graduate Admissions Assistance
+        summary: Assisted the Admissions Committee in evaluating applicants to the master's program in mechanical engineering.
+
     Awards:
       - title: Jumpstart Research Grant
         date: 2026
@@ -117,18 +131,3 @@ cv:
       - name: Experimental
         level: Advanced
         keywords: "Instron force testing, Vicon motion capture, Delsys EMG, Speedgoat real-time acquisition, movement biomechanics, signal processing, human-subject testing"
-
-    Volunteer:
-      - company: Academic and Professional Community
-        position: Journal and Conference Reviewer
-        summary: Reviews for Scientific Reports, IEEE Sensors Journal, IEEE Robotics and Automation Letters, Journal of NeuroEngineering and Rehabilitation, IEEE RoboSoft, IEEE/ASME AIM, and the American Control Conference.
-
-      - company: Arizona State University
-        position: Student Research Mentor
-        summary: Mentors undergraduate, honors-thesis, and high-school researchers in wearable robotics and biomechanics.
-        highlights:
-          - "Mentees: The Bach Nguyen, Rayan Mostofa, Cindy Furukawa, Akshay Karthik, and Alex Huang"
-
-      - company: College of Engineering Pune
-        position: Graduate Admissions Assistance
-        summary: Assisted the Admissions Committee in evaluating applicants to the master's program in mechanical engineering.
